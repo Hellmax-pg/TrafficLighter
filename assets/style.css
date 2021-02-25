@@ -1,0 +1,50 @@
+.traffic {
+    margin: 0 auto;
+    width: 60px;
+    height: 190px;
+    border: 1px solid #dedede;
+    display: flex;
+    flex-direction: column;
+}
+
+.red {
+    margin: 10px 5px 0 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: grey;
+    font-size: 2em;
+}
+
+.yellow {
+    margin: 10px 5px 0 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color:grey;
+    font-size: 2em;
+}
+
+.green {
+    margin: 10px 5px 0 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: grey;
+    font-size: 2em;
+}
+
+.red-clock {
+    line-height: 50px;
+    text-align: center;
+}
+
+.yellow-clock {
+    line-height: 50px;
+    text-align: center;
+}
+
+.green-clock {
+    line-height: 50px;
+    text-align: center;
+}
